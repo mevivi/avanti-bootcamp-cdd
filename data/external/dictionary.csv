@@ -1,0 +1,11 @@
+variavel,descricao,tipo,subtipo
+carat,peso do diamante,quantitativa,continua
+cut,"qualidade do corte (Fair, Good, Very Good, Premium, Ideal)",qualitativa,ordinal
+color,cor do diamante de D(melhor) a J (pior),qualitativa,ordinal
+clarity,"uma medida de quão claro é o diamante (I1 (pior), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (melhor))",qualitativa,ordinal
+depth,porcentagem total de profundidade,quantitativa,continua
+table,largura do topo do diamante em relação ao ponto mais largo (43--95) ,quantitativa,discreta
+price,preço do diamante em dolar americano,quantitativa,continua
+x,comprimento do diamante em mm (0--10.74),quantitativa,continua
+y,largura do diamante em mm (0--58.9),quantitativa,continua
+z,profundidade do diamante em mm (0--31.8),quantitativa,continua
